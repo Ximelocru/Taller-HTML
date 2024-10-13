@@ -1,0 +1,28 @@
+
+body {
+    background-color:#f8d7e1;
+    font-family: Arial, sans-serif;
+}
+h1 {
+ color: black;
+ text-align: center;
+}
+.bg-rosado-claro {
+    background-color: #f8d7e1; /* Código hexadecimal del color $pink-100 */
+}
+.bg-rosado-fuerte {
+    background-color: #d63384; /* Código hexadecimal del color $pink-500 */
+}
+.btn-rosado-fuerte {
+    background-color: #d63384; /* Código hexadecimal del color $pink-500 */
+    border-color: #d63384;
+}
+.btn-rosado-fuerte:hover {
+    background-color: #c02071; /* Color más oscuro para el efecto hover */
+    border-color: #c02071;     /* Asegúrate de que el borde tenga el mismo color en hover */
+}
+.tamaño{
+    font-size: 1.5em; /* Ajusta el tamaño de fuente */
+    line-height: 1.5; /* Ajusta la altura de línea para mejorar la legibilidad */
+}
+
